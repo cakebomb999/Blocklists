@@ -1,0 +1,122 @@
+# DNS Blockliste für Lernen und Konzentration
+
+# Social Media Plattformen
+0.0.0.0 facebook.com
+0.0.0.0 www.facebook.com
+0.0.0.0 m.facebook.com
+0.0.0.0 instagram.com
+0.0.0.0 www.instagram.com
+0.0.0.0 twitter.com
+0.0.0.0 www.twitter.com
+0.0.0.0 x.com
+0.0.0.0 www.x.com
+0.0.0.0 tiktok.com
+0.0.0.0 www.tiktok.com
+0.0.0.0 snapchat.com
+0.0.0.0 www.snapchat.com
+0.0.0.0 linkedin.com
+0.0.0.0 www.linkedin.com
+0.0.0.0 pinterest.com
+0.0.0.0 www.pinterest.com
+0.0.0.0 reddit.com
+0.0.0.0 www.reddit.com
+0.0.0.0 tumblr.com
+0.0.0.0 www.tumblr.com
+
+# Video-Plattformen
+0.0.0.0 youtube.com
+0.0.0.0 www.youtube.com
+0.0.0.0 m.youtube.com
+0.0.0.0 youtu.be
+0.0.0.0 netflix.com
+0.0.0.0 www.netflix.com
+0.0.0.0 twitch.tv
+0.0.0.0 www.twitch.tv
+0.0.0.0 vimeo.com
+0.0.0.0 www.vimeo.com
+0.0.0.0 dailymotion.com
+0.0.0.0 www.dailymotion.com
+0.0.0.0 amazon.com
+0.0.0.0 primevideo.com
+0.0.0.0 www.primevideo.com
+0.0.0.0 disneyplus.com
+0.0.0.0 www.disneyplus.com
+
+# Gaming Plattformen
+0.0.0.0 steam.com
+0.0.0.0 store.steampowered.com
+0.0.0.0 steamcommunity.com
+0.0.0.0 epicgames.com
+0.0.0.0 www.epicgames.com
+0.0.0.0 battle.net
+0.0.0.0 www.battle.net
+0.0.0.0 origin.com
+0.0.0.0 www.origin.com
+0.0.0.0 uplay.com
+0.0.0.0 www.uplay.com
+0.0.0.0 roblox.com
+0.0.0.0 www.roblox.com
+0.0.0.0 minecraft.net
+0.0.0.0 www.minecraft.net
+
+# News und Unterhaltung
+0.0.0.0 spiegel.de
+0.0.0.0 www.spiegel.de
+0.0.0.0 bild.de
+0.0.0.0 www.bild.de
+0.0.0.0 zeit.de
+0.0.0.0 www.zeit.de
+0.0.0.0 focus.de
+0.0.0.0 www.focus.de
+0.0.0.0 9gag.com
+0.0.0.0 www.9gag.com
+0.0.0.0 buzzfeed.com
+0.0.0.0 www.buzzfeed.com
+0.0.0.0 imgur.com
+0.0.0.0 www.imgur.com
+
+# Shopping
+0.0.0.0 amazon.de
+0.0.0.0 www.amazon.de
+0.0.0.0 ebay.de
+0.0.0.0 www.ebay.de
+0.0.0.0 zalando.de
+0.0.0.0 www.zalando.de
+0.0.0.0 otto.de
+0.0.0.0 www.otto.de
+0.0.0.0 aliexpress.com
+0.0.0.0 www.aliexpress.com
+
+# Messaging Apps (Web-Versionen)
+0.0.0.0 web.whatsapp.com
+0.0.0.0 web.telegram.org
+0.0.0.0 teams.microsoft.com
+0.0.0.0 slack.com
+0.0.0.0 www.slack.com
+
+# Musik Streaming
+0.0.0.0 spotify.com
+0.0.0.0 www.spotify.com
+0.0.0.0 soundcloud.com
+0.0.0.0 www.soundcloud.com
+
+# Weitere Ablenkungen
+0.0.0.0 wikipedia.org
+0.0.0.0 www.wikipedia.org
+0.0.0.0 de.wikipedia.org
+0.0.0.0 cracked.com
+0.0.0.0 www.cracked.com
+0.0.0.0 collegehumor.com
+0.0.0.0 www.collegehumor.com
+
+# Mobile App Domains (falls über Browser zugegriffen)
+0.0.0.0 m.facebook.com
+0.0.0.0 mobile.twitter.com
+0.0.0.0 m.youtube.com
+0.0.0.0 mobile.reddit.com
+
+# Zusätzliche Social Media Subdomains
+0.0.0.0 static.xx.fbcdn.net
+0.0.0.0 scontent.xx.fbcdn.net
+0.0.0.0 abs.twimg.com
+0.0.0.0 pbs.twimg.com
